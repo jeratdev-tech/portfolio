@@ -23,7 +23,7 @@ export default function Page() {
         <h1 style={{ fontSize: "4rem", margin: "14px 0" }}>
           <svg
             style={{
-              height: "1em",myUndefinedFunction();
+              height: "1em",
             }}
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 200 44"
@@ -83,4 +83,3 @@ export default function Page() {
     </div>
   );
 }
-
